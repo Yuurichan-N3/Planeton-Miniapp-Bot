@@ -31,7 +31,7 @@
 
 2. **依存パッケージをインストール**:
    ```bash
-   npm install axios colors
+   npm install axios colors ini
    ```
 
 3. **data.iniを準備**:
